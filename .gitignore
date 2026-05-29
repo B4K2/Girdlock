@@ -1,0 +1,8 @@
+gridvenv/
+catboost_info/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+*.joblib
+*.pkl
